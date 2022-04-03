@@ -1,8 +1,10 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dvntx&style=flat-square" /></p>
 ---
+
 ```zsh
 > sw_vers
 ```
+
 ```csharp
 dvntx@github
 -------------
@@ -11,6 +13,7 @@ dvntx@github
  Terminal  :  default
 ```
 ---
+
 ```zsh
 > nano readme.py
 ```
