@@ -9,9 +9,9 @@
 ```csharp
 dvntx@github
 -------------
-       OS  :  Ubuntu 18.04
+       OS  :  Arch Linux
     Shell  :  zsh 5.8
- Terminal  :  default
+ Terminal  :  alacritty
 ```
 ---
 
