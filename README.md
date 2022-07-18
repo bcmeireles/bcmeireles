@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=dvntx&style=flat-square" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=dv-nt&style=flat-square" /></p>
 
 ---
 
@@ -7,7 +7,7 @@
 ```
 
 ```csharp
-dvntx@github
+dv-nt@github
 -------------
        OS  :  Arch Linux
     Shell  :  zsh 5.8
@@ -24,11 +24,11 @@ dvntx@github
 ```py
 from github import readme
 
-class dvntx(readme):
-    "/dvntx/dvntx/README.md"
+class dv-nt(readme):
+    "/dv-nt/dv-nt/README.md"
 
     def __init__(self):
-        self.username = "dvntx"
+        self.username = "dv-nt"
         self.location = "Portugal"
         self.age = "19, Born 07 April 2003"
         self.occupation = "CS & Engineering Student"
@@ -39,11 +39,11 @@ class dvntx(readme):
 ```
 <p align="center">
   <br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=dvntx&theme=dark&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=dv-nt&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=dvntx&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=dv-nt&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvntx&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dv-nt&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 	
 </p>
 
